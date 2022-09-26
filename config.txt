@@ -5,7 +5,7 @@
 # 公众号appSecret
 "app_secret": "969a2e815537485b429971b084ec8d1e",
 # 模板消息id
-"template_id": "jA-zID7gn1rLN9LO4InsiWXKupec77Pu0SVttvoi2XQ",
+"template_id": "1lMa0rBSG0rG_LLIlv5tZ9lJ4s9mMZKywdJQETjSlZU",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["ok99c5gPUMdzkV4YFi8gjN2arj0k","ok99c5hpIpqLiU6EmJc8Na7zAHCE"],
  
@@ -23,12 +23,14 @@
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
 #"note_ch": "＼（＾▽＾）／＼（＾▽＾）／＼（＾▽＾）／ 好好生活，慢慢爱你，不早不晚，刚好是你。（づ￣3￣）づ╭❤～",
 #"note_ch": "好好生活，慢慢爱你，不早不晚，刚好是你。～❤～",
-#"note_ch": "总有些惊奇的际遇，比方说当我遇见你。꒰ঌ( ⌯' '⌯)໒꒱",
-"note_ch": "考的全会，蒙的全对！！！！！",
+"note_ch": "我为你翻山越岭，却无心看风景。⌯'▾'⌯",
+#"note_ch": "总有些惊奇的际遇，比方说当我遇见你。",
+#"note_ch": "考的全会，蒙的全对！！！！！",
 #"note_ch": "（づ￣3￣）づ╭❤～",
 # 金句英文
 #"note_en": "Love can touch us one time. And last for a lifetime. "
 #"note_en": "No matter the ending is perfect or not, you cannot disappear from my world."
 #"note_en": "So many people all around the world. Tell me where do I find someone like you girl."
-"note_en": "Maybe there are five thousand roses in the world as same as you, but only you are my unique rose."
+#"note_en": "Maybe there are five thousand roses in the world as same as you, but only you are my unique rose."
+"note_en": "I'll think of you every step of the way."
 }
