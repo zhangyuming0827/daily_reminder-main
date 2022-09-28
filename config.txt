@@ -35,6 +35,6 @@
 #"note_en": "No matter the ending is perfect or not, you cannot disappear from my world."
 #"note_en": "So many people all around the world. Tell me where do I find someone like you girl."
 #"note_en": "Maybe there are five thousand roses in the world as same as you, but only you are my unique rose."
-#"note_en": "I'll think of you every step of the way."
-"note_en": ""，
+"note_en": "I'll think of you every step of the way."
+#"note_en": ""，
 }
