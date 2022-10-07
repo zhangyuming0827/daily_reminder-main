@@ -30,14 +30,14 @@
 #"note_ch": "你站在桥上看风景，看风景的人在楼上看你。",
 #"note_ch": "愿有岁月可回首，且以深情共白头。",
 #"note_ch": "斯人如彩虹，遇上方知有。佳人似清酒，小酌才知香。",
-"note_ch": "二斤桃花酿作酒，万杯不及你温柔。",
-#"note_ch": "世上之事，皆难如意，世间之人，都不如你。",
+#"note_ch": "二斤桃花酿作酒，万杯不及你温柔。",
+"note_ch": "世上之事，皆难如意，世间之人，都不如你。",
 
 # 金句英文
 #"note_en": "Love can touch us one time. And last for a lifetime. "
 #"note_en": "No matter the ending is perfect or not, you cannot disappear from my world."
 #"note_en": "So many people all around the world. Tell me where do I find someone like you girl."
-#"note_en": "Maybe there are five thousand roses in the world as same as you, but only you are my unique rose."
-"note_en": "I'll think of you every step of the way."
+"note_en": "Maybe there are five thousand roses in the world as same as you, but only you are my unique rose."
+#"note_en": "I'll think of you every step of the way."
 #"note_en": ""，
 }
