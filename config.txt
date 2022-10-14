@@ -33,12 +33,14 @@
 #"note_ch": "二斤桃花酿作酒，万杯不及你温柔。",
 #"note_ch": "世上之事，皆难如意，世间之人，都不如你。",
 "note_ch": "",
+"note_ch": "邂逅相遇，适我愿兮。",
 
 # 金句英文
 #"note_en": "Love can touch us one time. And last for a lifetime. "
 #"note_en": "No matter the ending is perfect or not, you cannot disappear from my world."
 #"note_en": "So many people all around the world. Tell me where do I find someone like you girl."
-"note_en": "Maybe there are five thousand roses in the world as same as you, but only you are my unique rose."
+#"note_en": "Maybe there are five thousand roses in the world as same as you, but only you are my unique rose."
 #"note_en": "I'll think of you every step of the way."
-"note_en": ""，
+#"note_en": ""，
+"note_en": "有美一人，清扬婉兮。"，
 }
